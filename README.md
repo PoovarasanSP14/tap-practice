@@ -1,2 +1,2 @@
-Web development repository using HTML,CSS and Javascript.
+Web development repository using HTML5,CSS3 and Javascript.
 Resonsive web designs
