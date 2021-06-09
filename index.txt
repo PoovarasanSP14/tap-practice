@@ -2,3 +2,4 @@ Hello, we have learnt Git and GitHub yesterday.
 And also, about collaboration on forking and branching.
 Today will learn about Rebase command and others.
 Also will learn html, css and javascript.
+Then Responsive web designs.
